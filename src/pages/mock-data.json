@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "date": "02/11/2021",
+      "type": "Despesa",
+      "classification": "Despesa com RH",
+      "description": "Pagamento da Folha de Salários",
+      "value": 45000
+    },
+    {
+      "id": 2,
+      "date": "10/11/2021",
+      "type": "Despesa",
+      "classification": "Despesa com Benfeitoria",
+      "description": "Pagamento do material para reforma da quadra",
+      "value": 2000
+    },
+    {
+      "id": 3,
+      "date": "14/11/2021",
+      "type": "Receita",
+      "classification": "Receita de Convênios",
+      "description": "Recebimento proveniente da Secretaria da Educação do Estado de SP",
+      "value": 15000
+    },
+    {
+      "id": 4,
+      "date": "16/11/2021",
+      "type": "Despesa",
+      "classification": "Despesa com Material de Limpeza",
+      "description": "Compra de alcool e desinfetante",
+      "value": 500
+    },
+    {
+      "id": 5,
+      "date": "22/11/2021",
+      "type": "Receita",
+      "classification": "Receita de Doação PJ",
+      "description": "Doação da XPTO.Ltda",
+      "value": 5000
+    }
+  ]
